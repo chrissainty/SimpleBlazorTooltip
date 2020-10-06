@@ -20,7 +20,7 @@ span {
     z-index: 1;
 }
 
-.tooltip-wrapper span::after {
+span::after {
     content: "";
     position: absolute;
     top: 100%;
